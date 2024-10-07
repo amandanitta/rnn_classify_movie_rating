@@ -1,1 +1,1 @@
-# ics661_assignment2
+# Classify Movie Reviews using an Reccurent Neural Network
